@@ -4,7 +4,8 @@
 But first I would like to talk about the data.  
 I tried to find a suitable dataset from the web but couldn't find any. So, I created my own. This is the reason why it does not contain my tuples (only 64).
 
-So, to run the model you would have to first download it from google drive (link: https://drive.google.com/drive/folders/1cb1CmmQ9TGIzapWyRwVLfCPKgWIhN_Pz?usp=sharing).  I would recommend that you store it in the root directory.  
+So, to run the model you would have to first download it from Google Drive (link:https://drive.google.com/drive/folders/1cb1CmmQ9TGIzapWyRwVLfCPKgWIhN_Pz?usp=sharing).
+I would recommend that you store it in the root directory.  
 Next, load it into your notebook.
 The code snippet for this is: 
 ```
