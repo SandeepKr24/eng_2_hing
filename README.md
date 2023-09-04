@@ -2,9 +2,10 @@
 #### Here, I will explain how to use the model.
 
 But first I would like to talk about the [data](https://docs.google.com/spreadsheets/d/1GAWlwYU9n8GnKGniur2ojOZ6pqWcL92aVgGVG8Cd6GQ/edit?usp=sharing).  
-I tried to find a suitable dataset from the web but couldn't find any. So, I created my own. This is the reason why it does not contain my tuples (only 64).
+I tried to find a suitable dataset from the web but couldn't find any. So, I created my own. This is the reason why it does not contain a lot of data (only 64 rows).
 
-The pre-trained model that I used was [Facebook's MBart large](https://huggingface.co/docs/transformers/model_doc/mbart) model from the [HuggingFaceTransformers](https://huggingface.co/) library.
+The pre-trained model that I used was [Facebook's MBart large](https://huggingface.co/docs/transformers/model_doc/mbart) model from the [HuggingFaceTransformers](https://huggingface.co/) library.  
+I then fine-tuned it using the custom dataset that I created with customized parameters.
 
 So, to run the model you would have to first download it from this [Drive folder](https://drive.google.com/drive/folders/1cb1CmmQ9TGIzapWyRwVLfCPKgWIhN_Pz?usp=sharing).  
 I would recommend that you store it in the root directory.  
